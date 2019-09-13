@@ -1,1 +1,1 @@
-# DemoGit in dev branch
+# DemoGit in dev branch (illustration for stash)
